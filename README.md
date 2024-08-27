@@ -1,6 +1,6 @@
 
 <h4  align="center">
-  Seja Bem-Vindo, Meu nome é Iuri Rodrigues ! 🤳️
+  Seja Bem-Vindo, Meu nome é Iuri Rodrigues ! 
 </h4>
 <p align="center">
   👨‍🎓️ Graduando em <b>Física</b> &nbsp; 🤓️ Atualmente, estudando python;
